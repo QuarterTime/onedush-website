@@ -1,0 +1,21 @@
+#logo{
+    text-align: center;
+    opacity: 1;
+    position: fixed;
+}
+#aboutus{
+    left: 88px;
+    top: 158px;
+    width: 399px;
+    height: 56px;
+    opacity: 0;
+    position: absolute;
+}
+#download{
+    left: 88px;
+    top: 70px;
+    width: 559px;
+    height: 53px;
+    opacity: 0;
+    position: absolute;
+}
