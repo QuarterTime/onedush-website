@@ -27,6 +27,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: yarn install
+       export CI=false
     - run: npm run build
     
     - name: Deploy 🚀
