@@ -27,8 +27,8 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: yarn install
-       export CI=false
     - run: npm run build
+       export CI=false
     
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@releases/v3
