@@ -1,0 +1,176 @@
+{
+  "Header": {
+    "title": "ONEDUSH",
+    "paragraph": "一款6K下落式定轨音游"
+  },
+  "About": {
+    "paragraph": "『任月残雾逞，解半生予长风……』ONEDUSH是一款好玩的音乐节奏游戏，以二次元为基础画风设计，各种类型的音乐曲目等你挑战。绚丽无比的场景打造，与音符完美的融合，呈现出不一样的光影画面，置身其中，非常迷人。诸多的模式切换，指尖点击非常的轻松，大量的奖励领取，练习你的节奏感根本停不下来！",
+    "Why": [
+      "动感音乐美妙的音符，诸多的主题任务开启，置身其中享受一切",
+      "指尖滑动无比的惬意，难度不同模式多样，愉快的去感受一番",
+      "自定义你的头像，解锁各种各样的音乐，尽情的享受其中的乐趣"
+    ],
+    "Why2": [
+      "经典的音乐玩法，轻松点击进行操作",
+      "获得诸多的奖励，选择各种场景，给你不一样的视听盛宴",
+      "迷人的音乐，梦幻的场景，关卡诸多，逐一的完成，值得去回味",
+      "开心减压置身其中，充满了魅力，无比的着迷，更好的去享受快感"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "开始界面",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "主界面",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "剧情章节选择界面",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "选曲界面",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "游戏界面",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "暂停界面",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "结算界面",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "设置界面",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "商店界面",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Testimonials": [
+    {
+        "img": "img/testimonials/0.jpg",
+        "text": "\"梦拉、秦晋、谷子、联不通、蓝桜、CYSiCY、雲徙\"",
+        "name": "策划团队"
+    },
+    {
+        "img": "img/testimonials/0.jpg",
+        "text": "\"联不通Lonnet、梦拉、Seed、ABiller、QuarterTime、糕蛋、猫猫的秋田、途放game\"",
+        "name": "程序团队"
+    },
+    {
+      "img": "img/testimonials/0.jpg",
+      "text": "\"CYSiCY、AlcoHol酒精、delta、ENTHUSIAST OF TEAROUT、简直ボビ了、嗯嗯姆、压力马斯内、芒芒芒种睡醒了吗、Inufuto、炭烧几把、TDK、daisuki、雲徙\"",
+      "name": "美术团队"
+    },
+    {
+      "img": "img/testimonials/0.jpg",
+      "text": "\"谷子、蓝桜、maya、碳74、ANT、sej_、忘忆鱼、洛特、邛赫倪撲谥、会自爆的久住、圆桂不是受、美丽优雅高贵漂亮邪恶的UNP、柠猫、-ÄntimonŸ-、小杨qwq\"",
+      "name": "谱师团队"
+    },
+    {
+      "img": "img/testimonials/0.jpg",
+      "text": "\"银制品、CBK、梦拉、艾苏澪loth、微粒、RAI、烈风、Cypress、白羊、XSEA\"",
+      "name": "曲师团队"
+    },
+    {
+        "img": "img/testimonials/0.jpg",
+        "text": "\"秦晋、魔法使、谷子\"",
+        "name": "文案团队"
+    },
+    {
+        "img": "img/testimonials/0.jpg",
+        "text": "\"CH3COOOH  RekuMochizuki   ForgedReigns\"",
+        "name": "文案团队"
+    }
+  ],
+  "Team": [
+    {
+        "img": "img/team/Nefilibata.jpg",
+        "name": "Nefilibata云徙",
+        "job": "主策划"
+    },
+    {
+      "img": "img/team/Lonnet.jpg",
+      "name": "联不通Lonnet",
+      "job": "程序开发"
+    },
+    {
+      "img": "img/team/Seed.jpg",
+      "name": "Seed",
+      "job": "程序开发"
+    },
+    {
+        "img": "img/team/0.jpg",
+        "name": "????????????",
+        "job": "????????????"
+    },
+    {
+        "img": "img/team/0.jpg",
+        "name": "????????????",
+        "job": "????????????"
+    },
+    {
+        "img": "img/team/0.jpg",
+        "name": "????????????",
+        "job": "????????????"
+    },
+    {
+        "img": "img/team/0.jpg",
+        "name": "????????????",
+        "job": "????????????"
+    },
+    {
+        "img": "img/team/0.jpg",
+        "name": "????????????",
+        "job": "????????????"
+    }
+  ],
+  "Contact": {
+    "address": "ONEDUSH官方交流群 #1 828323784",
+    "phone": "+86 176 2267 6073",
+    "email": "contactus@seclusiongames.ltd",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "有效的反馈渠道",
+      "text": "玩家们可以在游戏官方群联系官方人员反馈问题，也可以从官网直接发送电子邮件反馈问题，我们在收到问题后的第一时间给予回复。"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "及时的更新公告",
+      "text": "内部成员在对UI、曲绘、歌曲最新收录以及开发进度等有进展时，会第一时间向玩家公开，以便了解我们的进度。"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "良好的社区环境",
+      "text": "由官方人员组建的游戏玩家群，其发言等受官方的监督，同时给予最大的自由，创建一个和平的讨论环境。"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "创新玩法",
+      "text": "定轨6K下落式音游，以二次元为基础画风设计，绚丽无比的场景打造，与音符完美的融合，呈现出不一样的光影画面。"
+    }
+  ]
+}
